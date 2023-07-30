@@ -1,6 +1,6 @@
 <center>
 
-![Banner](banner.png)
+![Banner](profile/banner.png)
 
 </center>
 
